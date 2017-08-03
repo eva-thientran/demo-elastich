@@ -1,10 +1,10 @@
 {
   "app": {
-    "name": "dempo-elastichsearch",
+    "name": "demo-elastichsearch",
     "web_dir": "/deploy/gsviec/app",
     "site_cookbook_dir" :"/deploy/gsviec/opsfiles/vagrant/site-cookbooks",
     "env": "vagrant",
-    "domain": "dempo-elastichsearch.dev"
+    "domain": "demo-elastichsearch.dev"
   },
   "user":{
     "name": "vagrant"
